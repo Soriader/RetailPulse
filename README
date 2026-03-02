@@ -1,1 +1,14 @@
 How to run -> pip install -e .
+
+## 📊 Sales Dashboard (Power BI)
+
+Interactive BI dashboard built on star schema model.
+
+Features:
+- Dynamic date filtering
+- DAX measures (Revenue, Orders, AOV)
+- Top N product analysis
+- Fully relational model
+
+Dashboard file:
+dashboard/RetailPulse_Sales_Dashboard.pbix
